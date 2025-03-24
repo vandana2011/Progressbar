@@ -15,4 +15,19 @@ progress {
   width: 32%;
     height: 42px;
     background: aliceblue;
+    /* animation: mymove 5s infinite; */
 }
+button {
+  background: rgb(96, 96, 166);
+    border: 1px solid #000;
+    color: #fff;
+    font-size: 14px;
+    margin-right: 10px;
+    padding: 6px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+/* @keyframes mymove {
+  from {top: 0px;}
+  to {top: 200px;}
+} */
